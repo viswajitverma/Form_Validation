@@ -20,3 +20,5 @@ are mandatory.
 
 ![Screenshot (186)](https://github.com/viswajitverma/Form_Validation/assets/114184311/a0ecca0b-97ef-4710-afcd-5a5f3b38c379)
 
+You can visit the site to test the application:
+https://form-validation-0.netlify.app/
